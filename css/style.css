@@ -88,7 +88,7 @@ h6 { color: gray}
 
 
 .forty {
-  background: url(images/40for40.jpg) no-repeat; 
+  background: url(/40for40/images/40for40.jpg) no-repeat; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
